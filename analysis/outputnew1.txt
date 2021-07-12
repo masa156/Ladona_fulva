@@ -1,0 +1,31 @@
+
+* Inspecting and Manipulating Text Data with Unix Tools
+GCA_000376725.2_Lful_2.0_genomic.fna
+GCA_000376725.2_Lful_2.0_genomic.gbff
+
+* Inspecting Data with Head and Tail
+LOCUS       KZ308113             2171779 bp    DNA     linear   CON 02-NOV-2017
+DEFINITION  Ladona fulva isolate sampled in the wild unplaced genomic scaffold
+            scaffold85, whole genome shotgun sequence.
+ACCESSION   KZ308113 APVN02000000
+VERSION     KZ308113.1
+DBLINK      BioProject: PRJNA194433
+            BioSample: SAMN02178325
+KEYWORDS    WGS.
+SOURCE      Ladona fulva (scarce chaser)
+  ORGANISM  Ladona fulva
+   880261 gtatcaattt actggattcg gctacaattt tcgttcagag cattccactc taaaagttgc
+   880321 ttcagttact gttctgatgt aactcggaca aaatttagca ataaca
+//
+
+* Using grep, cut, sort, uniq to summarize columns of data
+    9411
+       0
+LOCUS       KZ308113             2171779 bp    DNA     linear   CON 02-NOV-2017
+DEFINITION  Ladona fulva isolate sampled in the wild unplaced genomic scaffold
+            scaffold85, whole genome shotgun sequence.
+LOCUS       KZ308113             2171779 bp    DNA     linear   CON 02-NOV-2017
+DEFINITION  Ladona fulva isolate sampled in the wild unplaced genomic scaffold
+            scaffold85, whole genome shotgun sequence.
+
+* Using grep, cut, sort, uniq to summarize columns of data

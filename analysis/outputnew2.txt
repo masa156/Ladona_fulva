@@ -1,0 +1,45 @@
+
+* Inspecting and Manipulating Text Data with Unix Tools
+    9411
+       0
+LOCUS       KZ308113             2171779 bp    DNA     linear   CON 02-NOV-2017
+DEFINITION  Ladona fulva isolate sampled in the wild unplaced genomic scaffold
+            scaffold85, whole genome shotgun sequence.
+
+* Only 1,4,5
+LOCUS       KZ308113             2171779 bp    DNA     linear   CON 02-NOV-2017
+DEFINITION  Ladona fulva isolate sampled in the wild unplaced genomic scaffold
+            scaffold85, whole genome shotgun sequence.
+
+* rRNAカウント
+
+* CDSの末尾
+
+* Using grep, cut, sort, uniq to summarize columns of data
+
+* Inspecting Data with Head and Tail
+LOCUS       KZ308113             2171779 bp    DNA     linear   CON 02-NOV-2017
+DEFINITION  Ladona fulva isolate sampled in the wild unplaced genomic scaffold
+            scaffold85, whole genome shotgun sequence.
+ACCESSION   KZ308113 APVN02000000
+VERSION     KZ308113.1
+DBLINK      BioProject: PRJNA194433
+            BioSample: SAMN02178325
+KEYWORDS    WGS.
+SOURCE      Ladona fulva (scarce chaser)
+  ORGANISM  Ladona fulva
+   880261 gtatcaattt actggattcg gctacaattt tcgttcagag cattccactc taaaagttgc
+   880321 ttcagttact gttctgatgt aactcggaca aaatttagca ataaca
+//
+
+* Inspecting and Manipulating Text Data with Unix Tools
+total 5237656
+drwxr-xr-x  3 masashiwakita  staff    96B Dec 19 20:49 2020-12-19
+drwxr-xr-x  3 masashiwakita  staff    96B Dec 29 17:20 2020-12-29
+-rw-r--r--  1 masashiwakita  staff   1.1G Nov  3  2017 GCA_000376725.2_Lful_2.0_genomic.fna
+-rw-r--r--  1 masashiwakita  staff   1.4G Dec 15 09:57 GCA_000376725.2_Lful_2.0_genomic.gbff
+-rw-r--r--  1 masashiwakita  staff   1.1K Dec 15 09:57 md5checksums.txt
+ 14484232 GCA_000376725.2_Lful_2.0_genomic.fna
+ 20099025 GCA_000376725.2_Lful_2.0_genomic.gbff
+      12 md5checksums.txt
+ 34583269 total

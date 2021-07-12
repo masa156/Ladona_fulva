@@ -1,0 +1,15 @@
+
+* Inspecting and Manipulating Text Data with Unix Tools
+total 5271048
+drwxr-xr-x  3 masashiwakita  staff    96B Dec 19 20:49 2020-12-19
+-rw-r--r--  1 masashiwakita  staff   1.1G Nov  3  2017 GCA_000376725.2_Lful_2.0_genomic.fna
+-rw-r--r--  1 masashiwakita  staff   1.4G Dec 15 09:57 GCA_000376725.2_Lful_2.0_genomic.gbff
+-rw-r--r--  1 masashiwakita  staff     0B Dec 19 18:33 README.md
+-rw-r--r--  1 masashiwakita  staff     0B Dec 19 18:33 README.md.html
+-rw-r--r--  1 masashiwakita  staff   1.1K Dec 15 09:57 md5checksums.txt
+ 14484232 GCA_000376725.2_Lful_2.0_genomic.fna
+ 20099025 GCA_000376725.2_Lful_2.0_genomic.gbff
+       0 README.md
+       0 README.md.html
+      12 md5checksums.txt
+ 34583269 total
